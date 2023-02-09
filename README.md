@@ -1,4 +1,4 @@
 # React Admin Dashboard
 
-Completed React Admin Dashboard Repo
+### Made by [Geya Sahithi](https://twitter.com/GeyaSahithi)
 
